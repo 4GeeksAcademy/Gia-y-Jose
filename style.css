@@ -1,8 +1,24 @@
-body {
-    
+
+.titulo {
+    font-size: 90px;
+    font-family: "Geist", sans-serif;
 }
-.col2 {
 
+.titulo-2 {
+    font-size: 52px;
+    font-family: "Geist", sans-serif;
+}
 
+.imgen {
+    background-image: url(https://keivan.io/content/images/2020/05/appget-cityscape-2.jpeg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 510px;
+}
 
+img {
+    height: 360px; 
+    width: 200px;
+    margin-right: 40px;
 }
